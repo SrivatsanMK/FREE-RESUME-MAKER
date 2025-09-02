@@ -2,11 +2,6 @@
 
 ### A modern, AI-powered, ATS-optimized resume builder featuring professionally designed templates and smart content suggestions.
 
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=hothead01th/free-resume-maker@github)](https://gitads.dev/v1/ad-track?source=hothead01th/free-resume-maker@github)
-
-
-
 <p align="center">
   <img src="preview.png" width="45%" />
   <img src="preview2.png" width="45%" />
@@ -74,3 +69,4 @@ npm run dev
 5. **Project Links**: Add GitHub/live links to showcase your work
 6. **Customization**: Drag and drop sections to create the perfect layout
 7. **Download**: Before downloading, disable header/footer in print settings for optimal PDF output
+
